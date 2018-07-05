@@ -4,6 +4,7 @@
   "description": "Word game in Node-js",
   "main": "index.js",
   "dependencies": {
+    "colors": "^1.3.0",
     "inquirer": "^6.0.0"
   },
   "devDependencies": {},
